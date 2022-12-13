@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1670882256 source:d:\untitled\bib\main.cpp
+	<iostream>
+	<cmath>
+	<limits>
+	"vectors.hpp"
+
+1670882619 source:d:\untitled\bib\vectors.test.cpp
+	<iostream>
+	<cmath>
+	<limits>
+	"vectors.hpp"
+
+1670881119 d:\untitled\bib\vectors.hpp
+	<iosfwd>
+
